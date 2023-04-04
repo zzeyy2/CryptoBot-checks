@@ -2,8 +2,11 @@
 Auto-acceptance of Cryptobot checks.
 
 Install libraries
+
 pip install telethon
+
 pip install asyncio
+
 pip install configparser
 
 
